@@ -29,7 +29,7 @@ export default function ClassSchedule() {
                 </div>
                 <div className="flex p-3 bg-[#F8F8F8;] mb-2 justify-between  rounded-md">
                     <div className="flex">
-                        <div className="flex flex-col justify-center"><logo className="mx-5">v</logo></div>
+                        <div className="flex flex-col justify-center"><div className="mx-5">v</div></div>
                         <div>
                             <span className="text-xs">Class 7,Science | Live Class</span>
                             <p className="text-sm font-bold text-[#4749B3;]">Tuesday 5:00 - 5:50 PM</p>
@@ -39,7 +39,7 @@ export default function ClassSchedule() {
                 </div>
                 <div className="flex p-3 bg-[#FDF5FF;] text-[#E981FF;] mb-2 justify-between text-center  rounded-md">
                     <div className="flex">
-                        <div className="flex flex-col justify-center"><logo className="mx-5">v</logo></div>
+                        <div className="flex flex-col justify-center"><div className="mx-5">v</div></div>
                         <div>
                             <span className="text-xs">Class 7,Science | Live Class</span>
                             <p className="text-sm font-bold text-[#E66DFF;]">Tuesday 5:00 - 5:50 PM</p>
