@@ -1,7 +1,7 @@
 export default function Videopannel (){
     return (
         <div className="bg-black p-20">
-            <div className="flex bg-[#4749B3;] justify-between py-3 text-white w-screen rounded-t-2xl ">
+            <div className="flex bg-[#4749B3] justify-between py-3 text-white w-screen rounded-t-2xl ">
                 <div></div>
                                 <div className="text-center ml-2">
                                     <p className="text-sm">Class 7 Science</p>

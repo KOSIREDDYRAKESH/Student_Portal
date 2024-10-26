@@ -7,7 +7,7 @@ export default function Dashboard() {
     return (
         <>
             <Navbar />
-            <div className='bg-[#6669FE1A;] lg:flex p-5'>
+            <div className='bg-[#6669FE1A] lg:flex p-5'>
                 <div className='hidden lg:block w-4/6 '>
                     <Announcements />
                     <ClassSchedule />
