@@ -96,7 +96,8 @@ export default function AccessClassRecordings() {
                             {togglePlayBtn[0] && (togglePlayBtn[1] == 4) ? <div className="text-white font-bold text-sm absolute text-center w-28 h-20 z-10 mt-8">play now</div> :
                                 <div className="absolute z-10 w-10 h-10 border-4 border-white rounded-full flex items-center justify-center  mt-5 ml-8">
                                     <div className="w-0 h-0 border-l-[10px] rotate-90 border-r-[10px] border-b-[10px] border-l-transparent border-r-transparent border-b-white"></div>
-                                </div>}                                <img className="h-20 object-cover" src="https://s3-alpha-sig.figma.com/img/acd9/706c/ba5e99b25b5edb1a76a3a53c6e647f36?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AUdPFn8ln-8kM~ufrIxKyfzUWWoqDziuzBE7mRIyQbQ3SkemcEnbyDHiISn6Ig5R12q9zcEhX~pkVO9EXu4AgtLH5Ml9l8qUgKPsZUot0SbLVbzgw3EEzRsX~Q~hNrpvJ2Sy5VdNwZIvryjcdZNEuDkjSInXkpqgvMouIEjX3-qVBMDELiUhyca5XzimTTYlkz-GsNXSK8aXxLknuXtyNM-9nHM5GY1LV5fs~qdzV-4KITrJxdC-YMje3toI3Wv-snaBgku1cSYIywOrSH-Bg3qAk-vnqUSsj5mvTnz-70orCunw9eZLavE6g9sRYSM7DxlHB4VtOavbR8BYDIN~jw__" />
+                                </div>}
+                            <img className="h-20 object-cover" src="https://s3-alpha-sig.figma.com/img/acd9/706c/ba5e99b25b5edb1a76a3a53c6e647f36?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AUdPFn8ln-8kM~ufrIxKyfzUWWoqDziuzBE7mRIyQbQ3SkemcEnbyDHiISn6Ig5R12q9zcEhX~pkVO9EXu4AgtLH5Ml9l8qUgKPsZUot0SbLVbzgw3EEzRsX~Q~hNrpvJ2Sy5VdNwZIvryjcdZNEuDkjSInXkpqgvMouIEjX3-qVBMDELiUhyca5XzimTTYlkz-GsNXSK8aXxLknuXtyNM-9nHM5GY1LV5fs~qdzV-4KITrJxdC-YMje3toI3Wv-snaBgku1cSYIywOrSH-Bg3qAk-vnqUSsj5mvTnz-70orCunw9eZLavE6g9sRYSM7DxlHB4VtOavbR8BYDIN~jw__" />
                             <div className="z-10  w-28 h-20 inset-0 bg-[#474996] opacity-50 -mt-20"></div>
                         </div>
                     </div>
